@@ -1,3 +1,6 @@
 [submodule "packages/nomad-FAIR"]
 	path = packages/nomad-FAIR
 	url = https://gitlab.mpcdf.mpg.de/nomad-lab/nomad-FAIR.git
+[submodule "packages/nomad-plugin-aatest"]
+	path = packages/nomad-plugin-aatest
+	url = git@github.com:cecizag/nomad-plugin-aatest.git
